@@ -22,4 +22,8 @@
 ---
 
 
-学习时可参考此[文章](https://blog.csdn.net/qq_41100767)
+学习时可参考此[文章](https://blog.csdn.net/qq_41100767)  
+
+课本上的例题刷完了可以看看这个https://books.google.com/books?id=G9_Jp2dSixYC&printsec=frontcover&hl=zh-CN&source=gbs_atb#v=onepage&q&f=false  
+
+
